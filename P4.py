@@ -1,5 +1,5 @@
-'''Defined Variables for Arithmetic,
-Relational,Logical,Bitwise and Ternary'''
+'''Defined Variables for Arithmetic, Relational
+Logical, Bitwise and Ternary Operations'''
 x = 10
 y = 5
 
