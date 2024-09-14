@@ -1,4 +1,5 @@
-# Define variables
+''' Defined Variables for Arithmetic,
+Relational,Logical,Bitwise and Ternary'''
 x = 10
 y = 5
 
