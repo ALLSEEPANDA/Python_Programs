@@ -3,7 +3,7 @@ word = input("Enter A Word : ")
 count = 0
 
 for char in word:
-    if char in 'aeiou' or char in 'AEIOU':
+    if char in 'aeiouAEIOU':
         count += 1
 
 print("Count of vowels : ",count)
