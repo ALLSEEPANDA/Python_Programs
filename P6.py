@@ -1,7 +1,8 @@
-def DTB(n):
-   if n > 1:
-       DTB(n//2)
-   print(n % 2,end = '')
-
 dec = int(input("Enter a Decimal No. Between 10 to 100 : "))
-DTB(dec)
+
+binary = ''
+while dec > 0:
+    binary = str(dec % 2) + binary
+    dec //= 2
+
+print(binary)
