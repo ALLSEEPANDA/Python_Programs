@@ -1,0 +1,5 @@
+This is an example file.
+It contains several lines of text.
+The letter 'a' appears multiple times in this file.
+Let's count how many times the letter 'a' appears.
+Have a great day!

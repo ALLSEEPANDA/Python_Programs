@@ -1,0 +1,3 @@
+Hello World! This is a Sample Text File.
+It contains some Uppercase Letters and Numbers: 12345.
+Let's see how many Uppercase Letters and Digits it has!

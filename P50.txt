@@ -1,0 +1,3 @@
+This is an example text file to count the number of vowels.
+It includes various letters and words to test the function.
+Let's see how many vowels are present in this text!

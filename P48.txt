@@ -1,0 +1,5 @@
+This is a sample text file.
+It contains several lines of text.
+A quick brown fox jumps over a lazy dog.
+Apples and bananas are tasty fruits.
+Always aim for excellence.
