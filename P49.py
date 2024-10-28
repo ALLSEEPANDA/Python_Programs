@@ -20,4 +20,5 @@ def count_uppercase_and_digits(file_path):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-file_path = 'P49.txt'  
+file_path = 'P49.txt'
+count_uppercase_and_digits(file_path) 
