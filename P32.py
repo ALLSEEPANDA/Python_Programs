@@ -10,13 +10,13 @@ def replace_with_kth_value(input_string, replacement_dict, k):
     
     return ' '.join(result)
 
-input_string = "apple banana orange"
+input_string = str(input("Enter String: "))
 replacement_dict = {
     "apple": ["fruit", "healthy", "red"],
     "banana": ["yellow", "fruit", "long"],
     "orange": ["fruit", "citrus", "round"]
 }
-k = 2
+k = int(input("Enter the Kth value: "))
 
 output = replace_with_kth_value(input_string, replacement_dict, k)
 print("Output:", output)
